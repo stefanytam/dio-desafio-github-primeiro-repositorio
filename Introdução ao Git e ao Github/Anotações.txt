@@ -5,4 +5,4 @@ git innit: cria-se um repositório.
 git add: move o arquivo untracked direto para staged.
 git commit: move o arquivo para unmodified.
 git push: envia o conteúdo do repositório local para um repositório remoto.
-
+Link para apreender mais comandos básicos do git bash: https://comandosgit.github.io/
