@@ -1,2 +1,8 @@
 Link para download do Git: https://git-scm.com/downloads
 O git bash é um terminal extendido para otimizar o uso do git.
+Comando Básicos:
+git innit: cria-se um repositório.
+git add: move o arquivo untracked direto para staged.
+git commit: move o arquivo para unmodified.
+git push: envia o conteúdo do repositório local para um repositório remoto.
+
